@@ -58,8 +58,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark-noob830&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dark-noob830" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-noob830&show_icons=true&theme=tokyonight
-" alt="dark-noob830" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-noob830&show_icons=true&theme=tokyonight" alt="dark-noob830" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-noob830&theme=tokyonight" alt="dark-noob830" /></p>
 
