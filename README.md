@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mahdi Amrollahi Biouki</h1>
 <h3 align="center">A passionate backend developerBackend Developer & AI Researcher.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-noob830&label=Profile%20views&color=0e75b6&style=flat" alt="dark-noob830" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiAmrollahi&label=Profile%20views&color=0e75b6&style=flat" alt="MahdiAmrollahi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dark-noob830" alt="dark-noob830" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MahdiAmrollahi" alt="MahdiAmrollahi" /></a> </p>
 
 - 🔭 I’m currently working on **party mummy game**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **scalable backend design, and AI model optimization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/dark-noob830](https://github.com/dark-noob830)
+- 👨‍💻 All of my projects are available at [https://github.com/MahdiAmrollahi](https://github.com/MahdiAmrollahi)
 
 - 💬 Ask me about **backend-heavy web development, AI & deep learning, Python, Vue, Django**
 
@@ -55,13 +55,13 @@
 ## 📊 GitHub Stats
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dark-noob830&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="dark-noob830" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MahdiAmrollahi&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="MahdiAmrollahi" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dark-noob830&show_icons=true&theme=tokyonight" alt="dark-noob830" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=MahdiAmrollahi&show_icons=true&theme=tokyonight" alt="MahdiAmrollahi" /></p>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dark-noob830&theme=tokyonight" alt="dark-noob830" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MahdiAmrollahi&theme=tokyonight" alt="MahdiAmrollahi" /></p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dark-noob830&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MahdiAmrollahi&bg_color=1a1b26&color=7aa2f7&line=7aa2f7&point=c0caf5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
