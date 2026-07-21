@@ -25,7 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahdi-amrollahi-248442254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi amrollahi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahdi-amrollahi-biouki-248442254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahdi amrollahi" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22534400" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mahdi amr" height="30" width="40" /></a>
 </p>
 
