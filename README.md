@@ -5,17 +5,19 @@
 
 
 
-- 🔭 I’m currently working on **party mummy game**
+- 🔭 I’m currently researching and building projects in **Deep Learning, Computer Vision, and NLP**
 
-- 🌱 I’m currently learning **deep learning frameworks**
+- 🌱 Exploring **LLM agents, RAG pipelines, and scalable AI architectures**
 
-- 👯 I’m looking to collaborate on **backend-heavy web projects, AI research tools**
+- 🏗️ Designing and implementing **backend systems** with various architectures (monolith, microservices, event-driven)
 
-- 🤝 I’m looking for help with **scalable backend design, and AI model optimization**
+- 👯 I’m looking to collaborate on **backend-heavy web projects, AI research, and LLM-powered applications**
+
+- 🤝 I’m looking for help with **scalable system design, distributed backends, and AI model optimization**
 
 - 👨‍💻 All of my projects are available at [https://github.com/MahdiAmrollahi](https://github.com/MahdiAmrollahi)
 
-- 💬 Ask me about **backend-heavy web development, AI & deep learning, Python, Vue, Django**
+- 💬 Ask me about **Django, Python, LLMs, RAG, LangChain, Computer Vision, and backend architecture**
 
 - 📫 How to reach me **mahdiamr83@gmail.com**
 
